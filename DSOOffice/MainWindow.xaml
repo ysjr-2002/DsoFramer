@@ -5,8 +5,8 @@
         xmlns:local="clr-namespace:DSOOffice"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         Title="文档编辑"
-        Width="600"
-        Height="400"
+        Width="800"
+        Height="600"
         WindowStartupLocation="CenterScreen"
         mc:Ignorable="d">
     <Window.Resources>
